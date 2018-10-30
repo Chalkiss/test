@@ -1,5 +1,5 @@
 ﻿# test
-Filip Gapczy�ski
+jp2gmd
 O panie to ty na mnie spojrzales
 baragbhf
 ded
